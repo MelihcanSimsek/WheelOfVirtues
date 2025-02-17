@@ -1,8 +1,10 @@
 import { isPlatformBrowser } from '@angular/common';
 import { AfterViewInit, Component, ElementRef, Inject, PLATFORM_ID, ViewChild } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { Title } from '@angular/platform-browser';
 import words from '../../../../shared/words.json';
 import quotes from '../../../../shared/quates.json';
+
 
 interface MoodOption {
   value: string;
@@ -79,7 +81,9 @@ export class HomeComponent implements AfterViewInit {
   public WORDS: Word[] = [];
   public QUOTES: Quote[] = [];
 
-  constructor(@Inject(PLATFORM_ID) private platformId: Object) {}
+  constructor(@Inject(PLATFORM_ID) private platformId: Object,private titleService:Title) {
+    this.titleService.setTitle('Wheel');
+  }
 
   ngOnInit() {
     this.WORDS = words;
