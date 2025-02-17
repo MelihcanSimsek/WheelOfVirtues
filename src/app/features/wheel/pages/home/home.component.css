@@ -17,7 +17,6 @@
   animation: fadeIn 0.3s ease-out forwards;
 }
 
-/* Modal overlay */
 .modal-overlay {
   position: fixed;
   inset: 0;
@@ -30,7 +29,6 @@
   animation: fadeIn 0.3s ease-out;
 }
 
-/* Result modal */
 .result-modal {
   width: 600px;
   min-height: 400px;
@@ -112,7 +110,6 @@
   animation-delay: calc(0.1s * var(--word-index, 0));
 }
 
-/* Sad Animation */
 .sad-animation span {
   animation: sadWordAppear 1.2s cubic-bezier(0.4, 0, 0.2, 1) both;
   animation-delay: calc(0.15s * var(--word-index, 0));
@@ -131,7 +128,6 @@
   animation-delay: calc(0.15s * var(--word-index, 0));
 }
 
-/* Stressed Animation */
 .stressed-animation span {
   animation: stressedWordAppear 0.6s cubic-bezier(0.4, 0, 0.2, 1) both;
   animation-delay: calc(0.08s * var(--word-index, 0));
@@ -150,7 +146,6 @@
   animation-delay: calc(0.08s * var(--word-index, 0));
 }
 
-/* Animation Keyframes */
 @keyframes happyWordAppear {
   0% {
     opacity: 0;
@@ -246,7 +241,6 @@
   transform: translateY(0);
 }
 
-/* Modal animasyonları */
 @keyframes modalAppear {
   0% {
     opacity: 0;
