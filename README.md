@@ -1,3 +1,23 @@
+----- ----- CHOOSE YOUR DAILY MOOD ----- -----
+
+![image](https://github.com/user-attachments/assets/05c133cf-2088-489b-832d-c6bb087cfa3d)
+
+
+----- ----- SPIN THE WHEEL ----- -----
+
+![image](https://github.com/user-attachments/assets/f9ff18b1-5754-4785-a65d-8e8dafaf7e97)
+
+
+----- ----- GET YOUR WORD ----- -----
+
+![image](https://github.com/user-attachments/assets/a5cf44fd-39c0-47ab-bcc7-d7ebab2ce419)
+
+
+----- ----- READ YOUR RESULT ----- -----
+
+![image](https://github.com/user-attachments/assets/cd488bfe-292a-481d-b66b-6290f034dcf1)
+
+
 # WheelClient
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
