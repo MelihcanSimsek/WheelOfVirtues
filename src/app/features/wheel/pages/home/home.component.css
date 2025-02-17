@@ -260,3 +260,48 @@
     opacity: 1;
   }
 }
+
+/* Add these styles */
+.spin-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background: linear-gradient(to right, #3498db, #2980b9);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 4rem;
+  height: 4rem;
+  display: none; /* Hidden by default on desktop */
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+  transition: all 0.3s ease;
+  z-index: 40;
+}
+
+.spin-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(52, 152, 219, 0.4);
+}
+
+.spin-button:active {
+  transform: scale(0.95);
+}
+
+.spin-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+/* Show on mobile/tablet */
+@media (max-width: 1024px) {
+  .spin-button {
+    display: flex;
+  }
+}
+
+.hidden {
+  display: none !important;
+}

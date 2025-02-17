@@ -64,6 +64,8 @@ export class HomeComponent implements AfterViewInit {
   public selectedWord: Word | null = null;
   public selectedQuote: QuoteItem | null = null;
   public selectedPhilosopherImage: string | null = null;
+  public showSpinButton = true;
+  private readonly SPIN_VELOCITY = 50;
   
   public readonly moodOptions: MoodOption[] = [
     { value: 'happy', label: 'Happy', icon: '😊', color: 'bg-yellow-400 hover:bg-yellow-500' },
@@ -109,6 +111,7 @@ export class HomeComponent implements AfterViewInit {
     if (!isPlatformBrowser(this.platformId)) return;
     
     this.showSpinMessage = false;
+    this.showSpinButton = false;
     this.isDragging = true;
     this.lastMousePosition = {
       x: event.clientX,
@@ -413,6 +416,18 @@ export class HomeComponent implements AfterViewInit {
         });
       }
     }
+    
+    setTimeout(() => {
+      this.showSpinButton = true;
+    }, 500);
+  }
+
+  public spinWheel() {
+    if (this.isDragging || this.animationFrameId) return;
+    
+    this.showSpinButton = false;
+    this.dragVelocity = this.SPIN_VELOCITY;
+    this.spinWithMomentum();
   }
 
 }
