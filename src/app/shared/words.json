@@ -1,0 +1,29 @@
+
+[
+    { "id": 1, "name": "Bilgelik" },
+    { "id": 2, "name": "Adalet" },
+    { "id": 3, "name": "Cesaret" },
+    { "id": 4, "name": "Ölçülülük" },
+    { "id": 5, "name": "Sağduyu" },
+    { "id": 6, "name": "İnanç" },
+    { "id": 7, "name": "Umut" },
+    { "id": 8, "name": "Sevgi" },
+    { "id": 9, "name": "Sabır" },
+    { "id": 10, "name": "Alçakgönüllülük" },
+    { "id": 11, "name": "Şefkat" },
+    { "id": 12, "name": "Bütünlük" },
+    { "id": 13, "name": "Empati" },
+    { "id": 14, "name": "Minnettarlık" },
+    { "id": 15, "name": "Cömertlik" },
+    { "id": 16, "name": "Dayanıklılık" },
+    { "id": 17, "name": "Azim" },
+    { "id": 18, "name": "Sadakat" },
+    { "id": 19, "name": "Hayırseverlik" },
+    { "id": 20, "name": "Merhamet" },
+    { "id": 21, "name": "Samimiyet" },
+    { "id": 22, "name": "Dürüstlük" },
+    { "id": 23, "name": "Sorumluluk" },
+    { "id": 24, "name": "Özdenetim" },
+    { "id": 25, "name": "Kararlılık" }
+  ]
+  

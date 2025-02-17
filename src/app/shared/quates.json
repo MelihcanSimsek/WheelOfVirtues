@@ -1,0 +1,1383 @@
+[
+    {
+      "id": 1,
+      "quotes": [
+        {
+            "description": "Bildiğim tek şey, hiçbir şey bilmediğimdir.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          },
+          {
+            "description": "Bilgelik, doğrunun ışığında kendini bilmektir.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "En büyük zafer, insanın kendisine karşı kazandığı zaferdir.",
+            "philosopher": "Platon",
+            "philosopherImage": "../../../assets/platon.jpg"
+          },
+          {
+            "description": "Mutluluk, erdemli bir yaşamın ürünüdür.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Acı çekmek kaçınılmazdır, ıstırap çekmek ise seçimdir.",
+            "philosopher": "Buda",
+            "philosopherImage": "../../../assets/buda.jpg"
+          },
+          {
+            "description": "İnsan ancak kalbinin sesini dinlediğinde gerçek bilgeliğe ulaşır.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Bilgelik, deneyimlerden öğrenme yeteneğidir.",
+            "philosopher": "Immanuel Kant",
+            "philosopherImage": "../../../assets/immanuelKant.jpg"
+          },
+          {
+            "description": "Kendini bilen, Rabbini bilir.",
+            "philosopher": "İbn-i Arabi",
+            "philosopherImage": "../../../assets/ibniArabi.jpg"
+          },
+          {
+            "description": "Hayat geriye bakarak anlaşılır, ileriye bakarak yaşanır.",
+            "philosopher": "Søren Kierkegaard",
+            "philosopherImage": "../../../assets/sorenKierkegaard.jpg"
+          },
+          {
+            "description": "Bilgelik, doğru soruları sorabilme sanatıdır.",
+            "philosopher": "Lao Tzu",
+            "philosopherImage": "../../../assets/laoTzu.jpg"
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "quotes": [
+        {
+            "description": "Adalet mülkün temelidir.",
+            "philosopher": "Hz. Ömer",
+            "philosopherImage": "/api/placeholder/300/300"
+          },
+          {
+            "description": "Adalet, bütün erdemleri içinde barındırır.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Geciken adalet, adalet değildir.",
+            "philosopher": "William Penn",
+            "philosopherImage": "../../../assets/williamPenn.jpg"
+          },
+          {
+            "description": "Adalet olmadan barış olmaz, barış olmadan kalkınma olmaz.",
+            "philosopher": "Kofi Annan",
+            "philosopherImage": "../../../assets/kofiAnnan.jpg"
+          },
+          {
+            "description": "Adalet güçlü olmalı, güç de adaletli olmalıdır.",
+            "philosopher": "Blaise Pascal",
+            "philosopherImage": "../../../assets/blaisePascal.jpg"
+          },
+          {
+            "description": "En küçük adaletsizlik bile, adaletin bütününe zarar verir.",
+            "philosopher": "Cicero",
+            "philosopherImage": "../../../assets/cicero.jpg"
+          },
+          {
+            "description": "Adalet, hakların eşit dağıtılmasıdır.",
+            "philosopher": "John Rawls",
+            "philosopherImage": "../../../assets/johnRawls.jpg"
+          },
+          {
+            "description": "Adaletsiz güç, zulümdür.",
+            "philosopher": "Montesquieu",
+            "philosopherImage": "../../../assets/montesquieu.jpg"
+          },
+          {
+            "description": "Adalet, erdemlerin kraliçesidir.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          },
+          {
+            "description": "Adalet, toplumun temelidir ve hakikatin özüdür.",
+            "philosopher": "İbn Haldun",
+            "philosopherImage": "../../../assets/ibnHaldun.jpg"
+          }
+      ]
+    },
+    {
+      "id": 3,
+      "quotes": [
+        {
+            "description": "Cesaret, korkunun yokluğu değil, korkuya rağmen devam edebilme gücüdür.",
+            "philosopher": "Nelson Mandela",
+            "philosopherImage": "../../../assets/nelsonMandela.jpg"
+          },
+          {
+            "description": "Cesaretin başlangıcı, korkularımızla yüzleşmektir.",
+            "philosopher": "Seneca",
+            "philosopherImage": "../../../assets/seneca.jpg"
+          },
+          {
+            "description": "Cesaret, her erdemin temelidir.",
+            "philosopher": "Platon",
+            "philosopherImage": "../../../assets/platon.jpg"
+          },
+          {
+            "description": "Hayatın zorluklarına karşı en büyük silahımız cesarettir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "En büyük cesaret, kendini tanıma cesaretini göstermektir.",
+            "philosopher": "Lao Tzu",
+            "philosopherImage": "../../../assets/laoTzu.jpg"
+          },
+          {
+            "description": "Cesaret, doğru olanı yapmak için gereken güçtür.",
+            "philosopher": "Maya Angelou",
+            "philosopherImage": "../../../assets/mayaAngelou.jpg"
+          },
+          {
+            "description": "Cesaret göstermeden özgürlük elde edilemez.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          },
+          {
+            "description": "Cesaret, tehlike karşısında aklın gösterdiği metanettir.",
+            "philosopher": "Thomas Fuller",
+            "philosopherImage": "../../../assets/thomasFuller.jpg"
+          },
+          {
+            "description": "Cesaret, zorluklara rağmen ayakta kalabilme gücüdür.",
+            "philosopher": "Ernest Hemingway",
+            "philosopherImage": "../../../assets/ernestHemingway.jpg"
+          },
+          {
+            "description": "En büyük cesaret, ilk adımı atmaktır.",
+            "philosopher": "Ralph Waldo Emerson",
+            "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+          }
+      ]
+    },
+    {
+      "id": 4,
+      "quotes": [
+        {
+            "description": "Her şeyin aşırısı zarar, azı karar.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Ölçülülük, tüm erdemlerin ortak noktasıdır.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Orta yol, en doğru yoldur.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "İki aşırı uç arasındaki denge, bilgeliğin ta kendisidir.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          },
+          {
+            "description": "Ölçülü olan, hayatın tadını çıkarandır.",
+            "philosopher": "Epikür",
+            "philosopherImage": "../../../assets/epikur.jpg"
+          },
+          {
+            "description": "Kendini bilen, ölçüyü de bilir.",
+            "philosopher": "Yunus Emre",
+            "philosopherImage": "../../../assets/yunusEmre.jpg"
+          },
+          {
+            "description": "Ölçülülük, ruhun dengesidir.",
+            "philosopher": "Seneca",
+            "philosopherImage": "../../../assets/seneca.jpg"
+          },
+          {
+            "description": "Ne çok az, ne çok fazla; tam kararında olmak erdemdir.",
+            "philosopher": "Platon",
+            "philosopherImage": "../../../assets/platon.jpg"
+          },
+          {
+            "description": "İfrat ve tefritten uzak durmak, hikmetin başıdır.",
+            "philosopher": "İbn-i Sina",
+            "philosopherImage": "../../../assets/ibniSina.jpg"
+          },
+          {
+            "description": "Ölçülülük, insanın kendine koyduğu en değerli sınırdır.",
+            "philosopher": "Marcus Aurelius",
+            "philosopherImage": "../../../assets/marcusAurelius.jpg"
+          }
+      ]
+    },
+    {
+      "id": 5,
+      "quotes": [
+        {
+            "description": "Sağduyu, hayat tecrübelerinden süzülen en değerli bilgeliktir.",
+            "philosopher": "Albert Einstein",
+            "philosopherImage": "../../../assets/albertEinstein.jpg"
+          },
+          {
+            "description": "Sağduyu, teoriden daha değerlidir; çünkü o, pratiğin bilgeliğidir.",
+            "philosopher": "Immanuel Kant",
+            "philosopherImage": "../../../assets/immanuelKant.jpg"
+          },
+          {
+            "description": "En nadir şey sağduyudur, bu yüzden en değerlisidir.",
+            "philosopher": "Descartes",
+            "philosopherImage": "../../../assets/descartes.jpg"
+          },
+          {
+            "description": "Sağduyu, doğrunun en yakın dostudur.",
+            "philosopher": "Voltaire",
+            "philosopherImage": "../../../assets/voltaire.jpg"
+          },
+          {
+            "description": "Bilimin başlangıç noktası sağduyudur; sonu ise bilgeliktir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Sağduyu, hayatın pusulasıdır.",
+            "philosopher": "John Locke",
+            "philosopherImage": "../../../assets/johnLocke.jpg"
+          },
+          {
+            "description": "En büyük deha bile sağduyudan vazgeçemez.",
+            "philosopher": "Ralph Waldo Emerson",
+            "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+          },
+          {
+            "description": "Sağduyu, tecrübenin çocuğu ve aklın rehberidir.",
+            "philosopher": "Benjamin Franklin",
+            "philosopherImage": "../../../assets/benjaminFranklin.jpg"
+          },
+          {
+            "description": "Sağduyu, düşüncenin pratiğe dönüşmüş halidir.",
+            "philosopher": "Thomas Paine",
+            "philosopherImage": "../../../assets/thomasPaine.jpg"
+          },
+          {
+            "description": "İyi niyet sağduyuyla birleştiğinde, doğru kararlar kendiliğinden gelir.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          }
+      ]
+    },
+    {
+      "id": 6,
+      "quotes": [
+        {
+            "description": "İnanç, görmediğine inanma cesaretidir.",
+            "philosopher": "Martin Luther King Jr.",
+            "philosopherImage": "../../../assets/martinLutherKingJr.jpg"
+          },
+          {
+            "description": "İnanç olmadan bilgi boş, bilgi olmadan inanç kördür.",
+            "philosopher": "İmmanuel Kant",
+            "philosopherImage": "../../../assets/immanuelKant.jpg"
+          },
+          {
+            "description": "İnanç, kalbin gözüyle görmektir.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "İnanç, umudun temelidir; umut ise yaşamın kendisidir.",
+            "philosopher": "Goethe",
+            "philosopherImage": "../../../assets/goethe.jpg"
+          },
+          {
+            "description": "İnancın olduğu yerde, imkansız diye bir şey yoktur.",
+            "philosopher": "Hz. Ali",
+            "philosopherImage": "../../../assets/ali.jpg"
+          },
+          {
+            "description": "İnanç, karanlıkta bile yol gösteren bir ışıktır.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          },
+          {
+            "description": "İnanç, ruhun nefes almasıdır.",
+            "philosopher": "Søren Kierkegaard",
+            "philosopherImage": "../../../assets/sorenKierkegaard.jpg"
+          },
+          {
+            "description": "İnanç, bilginin ötesindeki gerçekleri görebilmektir.",
+            "philosopher": "Augustinus",
+            "philosopherImage": "../../../assets/augustinus.jpg"
+          },
+          {
+            "description": "İnancın gücü, dağları yerinden oynatabilir.",
+            "philosopher": "Hz. İsa",
+            "philosopherImage": "../../../assets/isa.jpg"
+          },
+          {
+            "description": "İnanç, akıl ile kalp arasında kurulan köprüdür.",
+            "philosopher": "Blaise Pascal",
+            "philosopherImage": "../../../assets/blaisePascal.jpg"
+          }
+      ]
+    },
+    {
+      "id": 7,
+      "quotes": [
+        {
+            "description": "Umut, karanlık gecede parlayan yıldızlar gibidir.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Umut, yaşamın tek gerçek anlamıdır.",
+            "philosopher": "Viktor Frankl",
+            "philosopherImage": "../../../assets/viktorFrankl.jpg"
+          },
+          {
+            "description": "Nerede hayat var, orada umut vardır.",
+            "philosopher": "Marcus Tullius Cicero",
+            "philosopherImage": "../../../assets/marcusTulliusCicero.jpg"
+          },
+          {
+            "description": "Umut, ruhun ilacıdır.",
+            "philosopher": "Friedrich Nietzsche",
+            "philosopherImage": "../../../assets/friedrichNietzsche.jpg"
+          },
+          {
+            "description": "Umut, insanın yarınlara olan inancıdır.",
+            "philosopher": "Martin Luther King Jr.",
+            "philosopherImage": "../../../assets/martinLutherKingJr.jpg"
+          },
+          {
+            "description": "Umut etmek, yaşamak demektir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Umut, zorluklara karşı en güçlü silahtır.",
+            "philosopher": "Helen Keller",
+            "philosopherImage": "../../../assets/helenKeller.jpg"
+          },
+          {
+            "description": "Bir insanın umudu varsa, her şeyi vardır.",
+            "philosopher": "Thales",
+            "philosopherImage": "../../../assets/thales.jpg"
+          },
+          {
+            "description": "Umut, geleceğin şimdiki zamanda yaşanan hayalidir.",
+            "philosopher": "Gabriel Marcel",
+            "philosopherImage": "../../../assets/gabrielMarcel.jpg"
+          },
+          {
+            "description": "Umut, karanlıkta açan bir çiçektir.",
+            "philosopher": "Emily Dickinson",
+            "philosopherImage": "../../../assets/emilyDickinson.jpg"
+          }
+      ]
+    },
+    {
+      "id": 8,
+      "quotes": [
+        {
+            "description": "Sevgi, evrenin en temel yasasıdır.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Sevmek, bir başka ruha dokunabilmektir.",
+            "philosopher": "Voltaire",
+            "philosopherImage": "../../../assets/voltaire.jpg"
+          },
+          {
+            "description": "Sevgi vermekle çoğalır, paylaştıkça büyür.",
+            "philosopher": "Yunus Emre",
+            "philosopherImage": "../../../assets/yunusEmre.jpg"
+          },
+          {
+            "description": "Sevgi, ruhun güneşidir.",
+            "philosopher": "Goethe",
+            "philosopherImage": "../../../assets/goethe.jpg"
+          },
+          {
+            "description": "En büyük mutluluk, sevgiyi paylaşmaktır.",
+            "philosopher": "Jean Jacques Rousseau",
+            "philosopherImage": "../../../assets/jeanJacquesRousseau.jpg"
+          },
+          {
+            "description": "Sevgi, bilgeliğin annesidir.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          },
+          {
+            "description": "Sevginin olduğu yerde hayat vardır.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          },
+          {
+            "description": "Sevgi, insanı insan yapan en değerli duygudur.",
+            "philosopher": "Platon",
+            "philosopherImage": "../../../assets/platon.jpg"
+          },
+          {
+            "description": "Sevgi, tüm kapıları açan anahtardır.",
+            "philosopher": "Khalil Gibran",
+            "philosopherImage": "../../../assets/khalilGibran.jpg"
+          },
+          {
+            "description": "Sevgi, karşılık beklemeden verebilmektir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          }
+      ]
+    },
+    {
+      "id": 9,
+      "quotes": [
+        {
+            "description": "Sabır, acı bir ağaçtır ama meyvesi tatlıdır.",
+            "philosopher": "Jean-Jacques Rousseau",
+            "philosopherImage": "../../../assets/jeanJacquesRousseau.jpg"
+          },
+          {
+            "description": "Sabır, başarının anahtarıdır.",
+            "philosopher": "Hz. Ali",
+            "philosopherImage": "../../../assets/ali.jpg"
+          },
+          {
+            "description": "Sabır, bilgeliğin kapısını açan ilk anahtardır.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          },
+          {
+            "description": "Sabır, zaferin tohumudur.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "/api/placeholder/300/300"
+          },
+          {
+            "description": "En büyük güç, sabırla bekleyebilmektir.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Sabır, zorluklara karşı kalkanımızdır.",
+            "philosopher": "Leonardo da Vinci",
+            "philosopherImage": "../../../assets/leonardoDaVinci.jpg"
+          },
+          {
+            "description": "Sabır, umudun en güzel ifadesidir.",
+            "philosopher": "Augustinus",
+            "philosopherImage": "../../../assets/augustinus.jpg"
+          },
+          {
+            "description": "Sabır göstermek, acıyı bal eylemektir.",
+            "philosopher": "Yunus Emre",
+            "philosopherImage": "../../../assets/yunusEmre.jpg"
+          },
+          {
+            "description": "Her şeyin bir vakti vardır, sabır ise o vakti bekleyebilmektir.",
+            "philosopher": "Benjamin Franklin",
+            "philosopherImage": "../../../assets/benjaminFranklin.jpg"
+          },
+          {
+            "description": "Sabır, ruhun huzur bulduğu yerdir.",
+            "philosopher": "İbn-i Sina",
+            "philosopherImage": "../../../assets/ibniSina.jpg"
+          }
+      ]
+    },
+    {
+      "id": 10,
+      "quotes": [
+        {
+            "description": "Gerçek bilgelik, ne kadar az bildiğini bilmektir.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          },
+          {
+            "description": "Alçakgönüllülük, başkalarının sana nasıl davrandığını değil, senin başkalarına nasıl davrandığını belirler.",
+            "philosopher": "C.S. Lewis",
+            "philosopherImage": "../../../assets/csLewis.jpg"
+          },
+          {
+            "description": "Kendini büyük gören insan, gerçekte ne kadar küçük olduğunu fark edemez.",
+            "philosopher": "Lao Tzu",
+            "philosopherImage": "../../../assets/laoTzu.jpg"
+          },
+          {
+            "description": "Alçakgönüllülük, kendini değersiz görmek değil, başkalarını da değerli görmektir.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          },
+          {
+            "description": "Ne kadar çok şey bilirsen, o kadar az şey bildiğini fark edersin.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Başkalarına hizmet etmeye hazır olan kişi, en büyük kişidir.",
+            "philosopher": "Hz. Muhammed",
+            "philosopherImage": "../../../assets/muhammed.jpg"
+          },
+          {
+            "description": "Gerçek güç, gücünü gösterme ihtiyacı duymamaktır.",
+            "philosopher": "Bruce Lee",
+            "philosopherImage": "../../../assets/bruceLee.jpg"
+          },
+          {
+            "description": "Bir insanın büyüklüğü, alçakgönüllülüğünden anlaşılır.",
+            "philosopher": "Albert Einstein",
+            "philosopherImage": "../../../assets/albertEinstein.jpg"
+          },
+          {
+            "description": "Sadece kendini geliştirmeye çalışan biri, gerçek anlamda büyür.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Alçakgönüllü olan kişi, en yükseğe ulaşabilir çünkü eğilmeyi bilir.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          }
+      ]
+    },
+    {
+      "id": 11,
+      "quotes": [
+        {
+            "description": "Başkalarının acısını hissedebilen bir yürek, gerçek bir insan yüreğidir.",
+            "philosopher": "Buddha",
+            "philosopherImage": "../../../assets/buddha.jpg"
+          },
+          {
+            "description": "Şefkat, başkalarının mutluluğunu kendi mutluluğun gibi hissetmektir.",
+            "philosopher": "Dalai Lama",
+            "philosopherImage": "../../../assets/dalaiLama.jpg"
+          },
+          {
+            "description": "İnsanlara nezaket ve şefkatle yaklaşın, çünkü herkes kendi mücadelesini veriyor.",
+            "philosopher": "Platon",
+            "philosopherImage": "../../../assets/platon.jpg"
+          },
+          {
+            "description": "Sevgi ve şefkatin olduğu yerde, hayat her zaman bir anlam taşır.",
+            "philosopher": "Leo Tolstoy",
+            "philosopherImage": "../../../assets/leoTolstoy.jpg"
+          },
+          {
+            "description": "Şefkat, acıyı yok etmez ama onu paylaşarak hafifletir.",
+            "philosopher": "Albert Schweitzer",
+            "philosopherImage": "../../../assets/albertSchweitzer.jpg"
+          },
+          {
+            "description": "Başkalarına verdiğiniz şefkat, eninde sonunda size geri döner.",
+            "philosopher": "Ralph Waldo Emerson",
+            "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+          },
+          {
+            "description": "Bir insanın gerçek karakteri, güçsüzlere nasıl davrandığıyla anlaşılır.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          },
+          {
+            "description": "Şefkat, en büyük bilgeliğin temelidir.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Sevgi dolu bir kalp, gerçek bir bilgeliğin başlangıcıdır.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Nezaket ve şefkat, insanı insan yapan en yüce erdemlerdir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          }
+      ]
+    },
+    {
+      "id": 12,
+      "quotes": [
+        {
+            "description": "Bütünlük, doğru olanı kimse bakmıyorken bile yapmaktır.",
+            "philosopher": "C.S. Lewis",
+            "philosopherImage": "../../../assets/csLewis.jpg"
+          },
+          {
+            "description": "Kendinize sadık kalın; çünkü bu, hayatta sahip olabileceğiniz en büyük değerdir.",
+            "philosopher": "William Shakespeare",
+            "philosopherImage": "../../../assets/williamShakespeare.jpg"
+          },
+          {
+            "description": "Gerçek karakter, baskı altında nasıl davrandığınızla ölçülür.",
+            "philosopher": "John Wooden",
+            "philosopherImage": "../../../assets/johnWooden.jpg"
+          },
+          {
+            "description": "Bütünlük, en güçlü kalkandır; ne rüzgarlar devirir ne de fırtınalar yıkar.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "İnsan, yaptığıyla değil, kim olduğu ve nasıl davrandığıyla değerlendirilmelidir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Bir insanın gerçek değeri, karanlıkta nasıl davrandığıyla anlaşılır.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          },
+          {
+            "description": "Bütünlük, kişinin sözleriyle eylemlerinin uyum içinde olmasıdır.",
+            "philosopher": "Albert Einstein",
+            "philosopherImage": "../../../assets/albertEinstein.jpg"
+          },
+          {
+            "description": "Dürüstlük, en iyi politikadır ama aynı zamanda en zor yoldur.",
+            "philosopher": "Benjamin Franklin",
+            "philosopherImage": "../../../assets/benjaminFranklin.jpg"
+          },
+          {
+            "description": "Kendi prensiplerine sadık kalamayan kişi, başkalarına da güven veremez.",
+            "philosopher": "Sokrates",
+            "philosopherImage": "../../../assets/socrates.jpg"
+          },
+          {
+            "description": "Bütünlük, iç huzurun anahtarıdır.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          }
+      ]
+    },
+    {
+      "id": 13,
+      "quotes": [
+        {
+            "description": "İnsanları yargılamadan önce, onların ayakkabılarıyla birkaç mil yürü.",
+            "philosopher": "Kızılderili Atasözü",
+            "philosopherImage": "../../../assets/chiefSeattle.jpg"
+          },
+          {
+            "description": "Başkalarının duygularını anlamadan, gerçek bir insan olamazsınız.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Eğer başkalarının acılarını hissedebiliyorsan, insan olmanın ne demek olduğunu anlamışsındır.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Başkalarının bakış açısından bakabildiğinde, gerçek anlayışı kazanırsın.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Empati, kendimizi unutup karşımızdakini hissetmektir.",
+            "philosopher": "Carl Rogers",
+            "philosopherImage": "../../../assets/carlRogers.jpg"
+          },
+          {
+            "description": "İnsan, en çok anlaşıldığında iyileşir.",
+            "philosopher": "Fyodor Dostoyevski",
+            "philosopherImage": "../../../assets/fyodorDostoyevsky.jpg"
+          },
+          {
+            "description": "Dünyayı daha iyi bir yer yapmak istiyorsan, önce bir başkasının gözünden görmeyi öğren.",
+            "philosopher": "Dalai Lama",
+            "philosopherImage": "../../../assets/dalaiLama.jpg"
+          },
+          {
+            "description": "Anlamak, bazen konuşmaktan daha güçlüdür.",
+            "philosopher": "Victor Hugo",
+            "philosopherImage": "../../../assets/victorHugo.jpg"
+          },
+          {
+            "description": "Birinin ruhuna dokunabilmek için önce onun hissettiklerini anlaman gerekir.",
+            "philosopher": "Leo Tolstoy",
+            "philosopherImage": "../../../assets/leoTolstoy.jpg"
+          },
+          {
+            "description": "Empati, insanları birbirine bağlayan en güçlü köprüdür.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          }
+      ]
+    },
+    {
+      "id": 14,
+      "quotes": [
+        {
+            "description": "Minnettarlık, sahip olduklarının farkına vardığında zenginleşmenin ilk adımıdır.",
+            "philosopher": "Epiktetos",
+            "philosopherImage": "../../../assets/epictetus.jpg"
+          },
+          {
+            "description": "Sahip oldukların için şükret; böylece daha fazlasını hak edersin.",
+            "philosopher": "Oprah Winfrey",
+            "philosopherImage": "../../../assets/oprahWinfrey.jpg"
+          },
+          {
+            "description": "Minnettarlık, mutluluğun en saf halidir.",
+            "philosopher": "Buddha",
+            "philosopherImage": "../../../assets/buddha.jpg"
+          },
+          {
+            "description": "Teşekkür etmek, sadece bir nezaket değil; ruhun şifalanmasıdır.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Minnettar bir kalp, sürekli olarak mutluluğun kaynağıdır.",
+            "philosopher": "Cicero",
+            "philosopherImage": "../../../assets/cicero.jpg"
+          },
+          {
+            "description": "Eğer sahip olduklarını düşünerek mutlu olamıyorsan, sahip olamadıklarınla asla mutlu olamazsın.",
+            "philosopher": "Dale Carnegie",
+            "philosopherImage": "../../../assets/daleCarnegie.jpg"
+          },
+          {
+            "description": "Minnettarlık, daha fazlasına sahip olmanın değil, sahip olduklarını takdir etmenin yoludur.",
+            "philosopher": "Lao Tzu",
+            "philosopherImage": "../../../assets/laoTzu.jpg"
+          },
+          {
+            "description": "Teşekkür etmek küçük bir şey gibi görünse de, ruhu yücelten en büyük erdemlerden biridir.",
+            "philosopher": "Albert Schweitzer",
+            "philosopherImage": "../../../assets/albertSchweitzer.jpg"
+          },
+          {
+            "description": "Minnettar bir insan, hayatın her anında bir mucize görmeyi bilir.",
+            "philosopher": "Marcus Aurelius",
+            "philosopherImage": "../../../assets/marcusAurelius.jpg"
+          },
+          {
+            "description": "Hayat, ona minnettar gözlerle baktığında daha güzeldir.",
+            "philosopher": "Ralph Waldo Emerson",
+            "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+          }
+      ]
+    },
+    {
+      "id": 15,
+      "quotes": [
+        {
+            "description": "Gerçek cömertlik, karşılık beklemeden vermektir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Eğer elindekini başkalarıyla paylaşırsan, asla kaybetmezsin; aksine çoğaltırsın.",
+            "philosopher": "Mevlana",
+            "philosopherImage": "../../../assets/mevlana.jpg"
+          },
+          {
+            "description": "Cömertlik, küçük şeyleri büyük bir sevgiyle vermektir.",
+            "philosopher": "Rahibe Teresa",
+            "philosopherImage": "../../../assets/rahibeTeresa.jpg"
+          },
+          {
+            "description": "İyiliği yalnızca ihtiyacı olanlara değil, herkese yapın; çünkü cömertlik, insanın en güzel süsüdür.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Vermek, almaktan daha büyük bir mutluluktur.",
+            "philosopher": "İsa Mesih",
+            "philosopherImage": "../../../assets/isaMesih.jpg"
+          },
+          {
+            "description": "Zengin olan, çok şeye sahip olan değil, çok şey veren kişidir.",
+            "philosopher": "Erich Fromm",
+            "philosopherImage": "../../../assets/erichFromm.jpg"
+          },
+          {
+            "description": "Cömertlik, sadece maddi şeyler vermek değil, aynı zamanda zamanını, sevgini ve anlayışını da paylaşmaktır.",
+            "philosopher": "Dalai Lama",
+            "philosopherImage": "../../../assets/dalaiLama.jpg"
+          },
+          {
+            "description": "Başkalarına yardım etmek için bir an bile tereddüt etme; çünkü en büyük servet, paylaşmaktan doğar.",
+            "philosopher": "Seneca",
+            "philosopherImage": "../../../assets/seneca.jpg"
+          },
+          {
+            "description": "Cömertlik, insanın en soylu erdemlerinden biridir.",
+            "philosopher": "Cicero",
+            "philosopherImage": "../../../assets/cicero.jpg"
+          },
+          {
+            "description": "Gerçek cömertlik, hiçbir karşılık beklemeden yapılan iyiliklerdir.",
+            "philosopher": "Albert Einstein",
+            "philosopherImage": "../../../assets/albertEinstein.jpg"
+          }
+      ]
+    },
+    {
+      "id": 16,
+      "quotes": [
+        {
+            "description": "Zafer, en çok dayanabilenindir.",
+            "philosopher": "Napoleon Bonaparte",
+            "philosopherImage": "../../../assets/napoleonBonaparte.jpg"
+          },
+          {
+            "description": "Düşmek değil, düştüğünde kalkabilmek gerçek gücü gösterir.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Dayanıklılık, başarısızlıklardan sonra bile devam edebilme gücüdür.",
+            "philosopher": "Winston Churchill",
+            "philosopherImage": "../../../assets/winstonChurchill.jpg"
+          },
+          {
+            "description": "Engeller, sadece daha güçlü olmamız için vardır.",
+            "philosopher": "Ralph Waldo Emerson",
+            "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+          },
+          {
+            "description": "Karanlık en yoğun olduğunda, şafak sökmeye en yakındır.",
+            "philosopher": "Victor Hugo",
+            "philosopherImage": "../../../assets/victorHugo.jpg"
+          },
+          {
+            "description": "Hayat, en güçlü olanın değil, en dayanıklı olanın hayatta kaldığı bir yolculuktur.",
+            "philosopher": "Charles Darwin",
+            "philosopherImage": "../../../assets/charlesDarwin.jpg"
+          },
+          {
+            "description": "Dayanıklılık, bir kişinin zorluklara rağmen ilerlemeye devam etme yeteneğidir.",
+            "philosopher": "Friedrich Nietzsche",
+            "philosopherImage": "../../../assets/friedrichNietzsche.jpg"
+          },
+          {
+            "description": "Zafer, vazgeçmeyenlerindir.",
+            "philosopher": "Sun Tzu",
+            "philosopherImage": "../../../assets/sunTzu.jpg"
+          },
+          {
+            "description": "Başarı, bir adım daha atacak gücü bulduğunda gelir.",
+            "philosopher": "Thomas Edison",
+            "philosopherImage": "../../../assets/thomasEdison.jpg"
+          },
+          {
+            "description": "Gerçek güç, fırtınada bile ayakta kalabilmektir.",
+            "philosopher": "Marcus Aurelius",
+            "philosopherImage": "../../../assets/marcusAurelius.jpg"
+          }
+      ]
+    },
+    {
+      "id": 17,
+      "quotes": [
+        {
+            "description": "Azim, başarının en önemli anahtarıdır.",
+            "philosopher": "Napoleon Bonaparte",
+            "philosopherImage": "../../../assets/napoleonBonaparte.jpg"
+          },
+          {
+            "description": "Sonsuz azim ve sabır, en ağır taşları bile deler.",
+            "philosopher": "Leonardo da Vinci",
+            "philosopherImage": "../../../assets/leonardoDaVinci.jpg"
+          },
+          {
+            "description": "Başarı, tekrar tekrar başarısızlığa uğrayıp heyecanını kaybetmemektir.",
+            "philosopher": "Winston Churchill",
+            "philosopherImage": "../../../assets/winstonChurchill.jpg"
+          },
+          {
+            "description": "Ne kadar yavaş gittiğiniz önemli değil, durmadığınız sürece ilerliyorsunuz demektir.",
+            "philosopher": "Konfüçyüs",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Azim, bir insanın kendisini aşmasını sağlayan en büyük güçtür.",
+            "philosopher": "Friedrich Nietzsche",
+            "philosopherImage": "../../../assets/friedrichNietzsche.jpg"
+          },
+          {
+            "description": "Başarıya ulaşan insanlar, durmadan tekrar deneyenlerdir.",
+            "philosopher": "Thomas Edison",
+            "philosopherImage": "../../../assets/thomasEdison.jpg"
+          },
+          {
+            "description": "Bir şeyi yapmanın en kesin yolu, denemeye devam etmektir.",
+            "philosopher": "Albert Einstein",
+            "philosopherImage": "../../../assets/albertEinstein.jpg"
+          },
+          {
+            "description": "Hayatta büyük başarılar, ancak büyük bir azimle mümkündür.",
+            "philosopher": "Theodore Roosevelt",
+            "philosopherImage": "../../../assets/theodoreRoosevelt.jpg"
+          },
+          {
+            "description": "Başarı, küçük bir adımı atmaktan ve asla vazgeçmemekten geçer.",
+            "philosopher": "Bruce Lee",
+            "philosopherImage": "../../../assets/bruceLee.jpg"
+          },
+          {
+            "description": "Azim olmadan, en büyük yetenek bile başarıya ulaşamaz.",
+            "philosopher": "Calvin Coolidge",
+            "philosopherImage": "../../../assets/calvinCoolidge.jpg"
+          }
+      ]
+    },
+    {
+      "id": 18,
+      "quotes": [
+        {
+            "description": "Sadakat, güvenin en büyük temelidir.",
+            "philosopher": "Seneca",
+            "philosopherImage": "../../../assets/seneca.jpg"
+          },
+          {
+            "description": "Gerçek dostluk, sadakat üzerine kuruludur.",
+            "philosopher": "Cicero",
+            "philosopherImage": "../../../assets/cicero.jpg"
+          },
+          {
+            "description": "Sadakat, zorluklar karşısında vazgeçmemektir.",
+            "philosopher": "Johann Wolfgang von Goethe",
+            "philosopherImage": "../../../assets/goethe.jpg"
+          },
+          {
+            "description": "Sadakat, kişinin karakterinin en önemli göstergesidir.",
+            "philosopher": "William Shakespeare",
+            "philosopherImage": "../../../assets/williamShakespeare.jpg"
+          },
+          {
+            "description": "Bir insanın sadakati, onun en büyük değeridir.",
+            "philosopher": "Friedrich Nietzsche",
+            "philosopherImage": "../../../assets/friedrichNietzsche.jpg"
+          },
+          {
+            "description": "Sadık olanlar, en büyük ödülü hak ederler.",
+            "philosopher": "Sun Tzu",
+            "philosopherImage": "../../../assets/sunTzu.jpg"
+          },
+          {
+            "description": "Sadakat, ne pahasına olursa olsun bağlı kalmak demektir.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "Sadakat olmadan, hiçbir bağ kalıcı değildir.",
+            "philosopher": "Confucius",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Sadakat, güçlü bir ruhun en belirgin özelliğidir.",
+            "philosopher": "Marcus Aurelius",
+            "philosopherImage": "../../../assets/marcusAurelius.jpg"
+          },
+          {
+            "description": "Sadık bir insanın değeri, ölçülemez.",
+            "philosopher": "Machiavelli",
+            "philosopherImage": "../../../assets/machiavelli.jpg"
+          }
+      ]
+    },
+    {
+      "id": 19,
+      "quotes": [
+        {
+            "description": "Gerçek zenginlik, paylaşmaktan gelir.",
+            "philosopher": "Dalai Lama",
+            "philosopherImage": "../../../assets/dalaiLama.jpg"
+          },
+          {
+            "description": "Başkalarına iyilik yapmak, kendine iyilik yapmaktır.",
+            "philosopher": "Aristoteles",
+            "philosopherImage": "../../../assets/aristoteles.jpg"
+          },
+          {
+            "description": "İnsan, ancak başkalarına verdiğiyle değerlidir.",
+            "philosopher": "Albert Schweitzer",
+            "philosopherImage": "../../../assets/albertSchweitzer.jpg"
+          },
+          {
+            "description": "Paylaşmak, sevgiyi çoğaltmanın en iyi yoludur.",
+            "philosopher": "Mother Teresa",
+            "philosopherImage": "../../../assets/motherTeresa.jpg"
+          },
+          {
+            "description": "Hayırseverlik, insanlığın en büyük erdemlerinden biridir.",
+            "philosopher": "Mahatma Gandhi",
+            "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+          },
+          {
+            "description": "İyilik yapmak, dünyayı daha güzel bir yer haline getirir.",
+            "philosopher": "Confucius",
+            "philosopherImage": "../../../assets/konfucyus.jpg"
+          },
+          {
+            "description": "Başkalarına yardım etmek, ruhu besleyen en güzel şeydir.",
+            "philosopher": "Marcus Aurelius",
+            "philosopherImage": "../../../assets/marcusAurelius.jpg"
+          },
+          {
+            "description": "Cömertlik, insanın içindeki en saf duygudur.",
+            "philosopher": "Seneca",
+            "philosopherImage": "../../../assets/seneca.jpg"
+          },
+          {
+            "description": "Bir insanın değeri, ne aldığıyla değil, ne verdiğiyle ölçülür.",
+            "philosopher": "Khalil Gibran",
+            "philosopherImage": "../../../assets/khalilGibran.jpg"
+          },
+          {
+            "description": "İyilik yap, karşılık bekleme; iyilik, kendi ödülünü içinde barındırır.",
+            "philosopher": "Ralph Waldo Emerson",
+            "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+          }
+      ]
+    },
+    {
+      "id": 20,
+      "quotes": [
+        {
+          "description": "Merhamet, insan ruhunun en derin gücüdür.",
+          "philosopher": "Buddha",
+          "philosopherImage": "../../../assets/buda.jpg"
+        },
+        {
+          "description": "Başkalarına karşı merhametli ol ki, kendine de merhamet bulasın.",
+          "philosopher": "Hz. Muhammed",
+          "philosopherImage": "../../../assets/muhammed.jpg"
+        },
+        {
+          "description": "Bir insanın gerçek değeri, onun merhametiyle ölçülür.",
+          "philosopher": "Albert Schweitzer",
+          "philosopherImage": "../../../assets/albertSchweitzer.jpg"
+        },
+        {
+          "description": "Merhamet, insan olmanın temelidir.",
+          "philosopher": "Dalai Lama",
+          "philosopherImage": "../../../assets/dalaiLama.jpg"
+        },
+        {
+          "description": "Merhamet göstermek, güçsüzlük değil, en büyük erdemdir.",
+          "philosopher": "Confucius",
+          "philosopherImage": "../../../assets/konfucyus.jpg"
+        },
+        {
+          "description": "Başkalarına karşı nazik ve merhametli olmak, dünyanın daha iyi bir yer olmasını sağlar.",
+          "philosopher": "Leo Tolstoy",
+          "philosopherImage": "../../../assets/leoTolstoy.jpg"
+        },
+        {
+          "description": "Merhamet, bir insanın kalbinin genişliğini gösterir.",
+          "philosopher": "Mahatma Gandhi",
+          "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+        },
+        {
+          "description": "Sevgi ve merhamet, dünyayı güzelleştirir.",
+          "philosopher": "Mother Teresa",
+          "philosopherImage": "../../../assets/motherTeresa.jpg"
+        },
+        {
+          "description": "Merhamet, hem iyiliğin hem de adaletin temelidir.",
+          "philosopher": "Marcus Aurelius",
+          "philosopherImage": "../../../assets/marcusAurelius.jpg"
+        },
+        {
+          "description": "Merhamet, insanın en asil yönlerinden biridir.",
+          "philosopher": "Friedrich Nietzsche",
+          "philosopherImage": "../../../assets/friedrichNietzsche.jpg"
+        }
+      ]
+      
+    },
+    {
+      "id": 21,
+      "quotes": [
+        {
+          "description": "Samimiyet, insanın en büyük zenginliğidir.",
+          "philosopher": "Johann Wolfgang von Goethe",
+          "philosopherImage": "../../../assets/goethe.jpg"
+        },
+        {
+          "description": "Gerçek dostluk, samimiyetle başlar.",
+          "philosopher": "Cicero",
+          "philosopherImage": "../../../assets/cicero.jpg"
+        },
+        {
+          "description": "Samimi olmak, kendin olabilmektir.",
+          "philosopher": "Ralph Waldo Emerson",
+          "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+        },
+        {
+          "description": "Samimiyet, güvenin temelidir.",
+          "philosopher": "Aristoteles",
+          "philosopherImage": "../../../assets/aristoteles.jpg"
+        },
+        {
+          "description": "İnsanlar, en çok samimiyeti özler.",
+          "philosopher": "Lev Tolstoy",
+          "philosopherImage": "../../../assets/levTolstoy.jpg"
+        },
+        {
+          "description": "Samimiyet, içten gelen bir dürüstlüktür.",
+          "philosopher": "Friedrich Nietzsche",
+          "philosopherImage": "../../../assets/friedrichNietzsche.jpg"
+        },
+        {
+          "description": "Samimi olmak, her şeyden önce kendine dürüst olmaktır.",
+          "philosopher": "Marcus Aurelius",
+          "philosopherImage": "../../../assets/marcusAurelius.jpg"
+        },
+        {
+          "description": "Samimi bir kalp, en büyük servettir.",
+          "philosopher": "Khalil Gibran",
+          "philosopherImage": "../../../assets/khalilGibran.jpg"
+        },
+        {
+          "description": "Samimiyet, gerçek dostluğun anahtarıdır.",
+          "philosopher": "William Shakespeare",
+          "philosopherImage": "../../../assets/williamShakespeare.jpg"
+        },
+        {
+          "description": "Samimiyet, sahte bir dünyada en değerli şeydir.",
+          "philosopher": "Albert Camus",
+          "philosopherImage": "../../../assets/albertCamus.jpg"
+        }
+      ]
+      
+    },
+    {
+      "id": 22,
+      "quotes": [
+        {
+          "description": "Dürüstlük, bilgelik kitabının ilk bölümüdür.",
+          "philosopher": "Thomas Jefferson",
+          "philosopherImage": "../../../assets/thomasJefferson.jpg"
+        },
+        {
+          "description": "Dürüstlük olmadan, güven olmaz.",
+          "philosopher": "Confucius",
+          "philosopherImage": "../../../assets/konfucyus.jpg"
+        },
+        {
+          "description": "Gerçek cesaret, dürüst olmaktır.",
+          "philosopher": "Mahatma Gandhi",
+          "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+        },
+        {
+          "description": "Dürüstlük, en büyük erdemlerden biridir.",
+          "philosopher": "Immanuel Kant",
+          "philosopherImage": "../../../assets/immanuelKant.jpg"
+        },
+        {
+          "description": "Dürüst bir insan, kendisine en büyük iyiliği yapar.",
+          "philosopher": "Marcus Aurelius",
+          "philosopherImage": "../../../assets/marcusAurelius.jpg"
+        },
+        {
+          "description": "Dürüstlük, en güçlü yapıdır. O, diğer erdemleri inşa eder.",
+          "philosopher": "Aristoteles",
+          "philosopherImage": "../../../assets/aristoteles.jpg"
+        },
+        {
+          "description": "Bir insanın dürüstlüğü, tüm başarısının temeli olmalıdır.",
+          "philosopher": "Benjamin Franklin",
+          "philosopherImage": "../../../assets/benjaminFranklin.jpg"
+        },
+        {
+          "description": "Dürüst olmak, insanın vicdanını rahat tutmasını sağlar.",
+          "philosopher": "Ralph Waldo Emerson",
+          "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+        },
+        {
+          "description": "Dürüstlük, kendine ve başkalarına duyulan saygının göstergesidir.",
+          "philosopher": "Mark Twain",
+          "philosopherImage": "../../../assets/markTwain.jpg"
+        },
+        {
+          "description": "Dürüstlük, insanın kendi değerlerine sadık kalmasının yoludur.",
+          "philosopher": "Abraham Lincoln",
+          "philosopherImage": "../../../assets/abrahamLincoln.jpg"
+        }
+      ]
+      
+    },
+    {
+      "id": 23,
+      "quotes": [
+        {
+          "description": "Sorumluluk, özgürlüğün bir parçasıdır.",
+          "philosopher": "Jean-Paul Sartre",
+          "philosopherImage": "../../../assets/jeanPaulSartre.jpg"
+        },
+        {
+          "description": "Bir insan ne kadar sorumluluk alırsa, o kadar güçlü olur.",
+          "philosopher": "James Allen",
+          "philosopherImage": "../../../assets/jamesAllen.jpg"
+        },
+        {
+          "description": "Sorumluluk, yaşamın anlamını bulmanın yoludur.",
+          "philosopher": "Albert Einstein",
+          "philosopherImage": "../../../assets/albertEinstein.jpg"
+        },
+        {
+          "description": "Bir insan, yalnızca üzerine aldığı sorumluluklarla büyür.",
+          "philosopher": "Eleanor Roosevelt",
+          "philosopherImage": "../../../assets/eleanorRoosevelt.jpg"
+        },
+        {
+          "description": "Sorumluluk almak, cesaret gerektirir.",
+          "philosopher": "Winston Churchill",
+          "philosopherImage": "../../../assets/winstonChurchill.jpg"
+        },
+        {
+          "description": "Sorumluluk, insanın kendi eylemlerinin sonuçlarını kabul etmesidir.",
+          "philosopher": "Immanuel Kant",
+          "philosopherImage": "../../../assets/immanuelKant.jpg"
+        },
+        {
+          "description": "Sorumluluk, başkalarına hizmet etmektir.",
+          "philosopher": "Mahatma Gandhi",
+          "philosopherImage": "../../../assets/mahatmaGandhi.jpg"
+        },
+        {
+          "description": "Sorumluluk, özdeğerin en güçlü göstergesidir.",
+          "philosopher": "Abraham Lincoln",
+          "philosopherImage": "../../../assets/abrahamLincoln.jpg"
+        },
+        {
+          "description": "Gerçek liderlik, sorumluluk almayı gerektirir.",
+          "philosopher": "John F. Kennedy",
+          "philosopherImage": "../../../assets/johnFKennedy.jpg"
+        },
+        {
+          "description": "Sorumluluk, doğru olanı yapma cesaretidir.",
+          "philosopher": "Confucius",
+          "philosopherImage": "../../../assets/konfucyus.jpg"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "quotes": [
+        {
+          "description": "Özdenetim, özgürlüğün başlangıcıdır.",
+          "philosopher": "Aristoteles",
+          "philosopherImage": "../../../assets/aristoteles.jpg"
+        },
+        {
+          "description": "Kendini denetlemek, en büyük zaferdir.",
+          "philosopher": "Platon",
+          "philosopherImage": "../../../assets/platon.jpg"
+        },
+        {
+          "description": "Özdenetim, mutluluğun anahtarıdır.",
+          "philosopher": "Epiktetos",
+          "philosopherImage": "../../../assets/epictetus.jpg"
+        },
+        {
+          "description": "Özdenetim olmadan başarı, geçici ve yüzeyeldir.",
+          "philosopher": "Ralph Waldo Emerson",
+          "philosopherImage": "../../../assets/ralphWaldoEmerson.jpg"
+        },
+        {
+          "description": "Özdenetim, karakterin temellerindendir.",
+          "philosopher": "Seneca",
+          "philosopherImage": "../../../assets/seneca.jpg"
+        },
+        {
+          "description": "Özdenetim, dışarıdaki dünyayı değil, içindeki dünyayı kontrol etmektir.",
+          "philosopher": "Dalai Lama",
+          "philosopherImage": "../../../assets/dalaiLama.jpg"
+        },
+        {
+          "description": "Kendi duygularını denetleyebilmek, gerçek özgürlüktür.",
+          "philosopher": "Marcus Aurelius",
+          "philosopherImage": "../../../assets/marcusAurelius.jpg"
+        },
+        {
+          "description": "Özdenetim, kişisel büyümenin temelidir.",
+          "philosopher": "Tony Robbins",
+          "philosopherImage": "../../../assets/tonyRobbins.jpg"
+        },
+        {
+          "description": "Kendisini kontrol edebilen kişi, en büyük özgürlüğe sahiptir.",
+          "philosopher": "Aristotle",
+          "philosopherImage": "../../../assets/aristoteles.jpg"
+        },
+        {
+          "description": "Özdenetim, insanın kendi egosunu denetim altına alabilmesidir.",
+          "philosopher": "Friedrich Nietzsche",
+          "philosopherImage": "../../../assets/friedrichNietzsche.jpg"
+        }
+      ]
+      
+    },
+    {
+      "id": 25,
+      "quotes": [
+        {
+          "description": "Kararlılık, başarının yarısıdır.",
+          "philosopher": "Winston Churchill",
+          "philosopherImage": "../../../assets/winstonChurchill.jpg"
+        },
+        {
+          "description": "Kararlılık, zorluklara karşı dimdik durmaktır.",
+          "philosopher": "Nelson Mandela",
+          "philosopherImage": "../../../assets/nelsonMandela.jpg"
+        },
+        {
+          "description": "Kararlılık, içsel gücün bir ifadesidir.",
+          "philosopher": "Vince Lombardi",
+          "philosopherImage": "../../../assets/vinceLombardi.jpg"
+        },
+        {
+          "description": "Kararlı insanlar, başkalarının inancını kaybettiği zaman bile devam eder.",
+          "philosopher": "Thomas Edison",
+          "philosopherImage": "../../../assets/thomasEdison.jpg"
+        },
+        {
+          "description": "Kararlılık, tüm başarıların temelidir.",
+          "philosopher": "Abraham Lincoln",
+          "philosopherImage": "../../../assets/abrahamLincoln.jpg"
+        },
+        {
+          "description": "Bir hedefe ulaşmak için kararlılıkla ilerle.",
+          "philosopher": "Confucius",
+          "philosopherImage": "../../../assets/konfucyus.jpg"
+        },
+        {
+          "description": "Kararlılık, başarısızlıktan sonra bile ayakta kalabilmektir.",
+          "philosopher": "Albert Einstein",
+          "philosopherImage": "../../../assets/albertEinstein.jpg"
+        },
+        {
+          "description": "Kararlılık, bir işin bitmesine kadar devam etmektir.",
+          "philosopher": "Henry Ford",
+          "philosopherImage": "../../../assets/henryFord.jpg"
+        },
+        {
+          "description": "Başarı kararlılıkla gelir, vazgeçmekle değil.",
+          "philosopher": "Babe Ruth",
+          "philosopherImage": "../../../assets/babeRuth.jpg"
+        },
+        {
+          "description": "Kararlılık, hedeflerimize ulaşmada bir güç kaynağıdır.",
+          "philosopher": "Steve Jobs",
+          "philosopherImage": "../../../assets/steveJobs.jpg"
+        }
+      ]
+      
+    }
+  ]
+  
