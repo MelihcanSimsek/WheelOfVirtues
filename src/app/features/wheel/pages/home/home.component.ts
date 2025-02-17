@@ -70,12 +70,12 @@ export class HomeComponent implements AfterViewInit {
   private readonly SPIN_VELOCITY = 50;
   
   public readonly moodOptions: MoodOption[] = [
-    { value: 'happy', label: 'Happy', icon: '😊', color: 'bg-yellow-400 hover:bg-yellow-500' },
-    { value: 'sad', label: 'Sad', icon: '😢', color: 'bg-blue-400 hover:bg-blue-500' },
-    { value: 'worried', label: 'Worried', icon: '😟', color: 'bg-purple-400 hover:bg-purple-500' },
-    { value: 'stressed', label: 'Stressed', icon: '😰', color: 'bg-red-400 hover:bg-red-500' },
-    { value: 'angry', label: 'Angry', icon: '😠', color: 'bg-orange-400 hover:bg-orange-500' },
-    { value: 'tired', label: 'Tired', icon: '😴', color: 'bg-gray-400 hover:bg-gray-500' }
+    { value: 'happy', label: 'Mutlu', icon: '😊', color: 'bg-yellow-400 hover:bg-yellow-500' },
+    { value: 'sad', label: 'Üzgün', icon: '😢', color: 'bg-blue-400 hover:bg-blue-500' },
+    { value: 'worried', label: 'Endişeli', icon: '😟', color: 'bg-purple-400 hover:bg-purple-500' },
+    { value: 'stressed', label: 'Stresli', icon: '😰', color: 'bg-red-400 hover:bg-red-500' },
+    { value: 'angry', label: 'Kızgın', icon: '😠', color: 'bg-orange-400 hover:bg-orange-500' },
+    { value: 'tired', label: 'Yorgun', icon: '😴', color: 'bg-gray-400 hover:bg-gray-500' }
   ];
 
   public WORDS: Word[] = [];
